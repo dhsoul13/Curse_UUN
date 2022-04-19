@@ -1,0 +1,19 @@
+.wrapper{
+    display: flex;
+    justify-content: space-between;
+    padding: 37px 10px;
+    min-height: 44px;
+};
+.list{
+    display: flex;
+    & li{
+        margin-right: 56px;
+    }
+}
+.button{
+    width:183px;
+    height: 44px;
+}
+a:visited {
+    color: #fff
+  }

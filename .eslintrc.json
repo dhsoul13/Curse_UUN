@@ -25,6 +25,8 @@
     }],
     "linebreak-style": 0,
     "react/no-unused-prop-types": "warn",
-    "no-unused-vars": "warn"
+    "no-unused-vars": "warn",
+    "default-param-last": "off",
+    "import/prefer-default-export": "off"
   }
 }
